@@ -1,4 +1,4 @@
-React Native Navigation App
+**React Native Navigation App**
 This is a sample React Native project that demonstrates how to combine Drawer Navigation, Stack Navigation, and Tab Navigation in the same application using the react-navigation library.
 
 Features
