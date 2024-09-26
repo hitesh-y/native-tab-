@@ -1,4 +1,4 @@
-**React Native Navigation App**
+**React Native Navigation App** :-
 This is a sample React Native project that demonstrates how to combine Drawer Navigation, Stack Navigation, and Tab Navigation in the same application using the react-navigation library.
 
 Features
@@ -21,7 +21,7 @@ React Native CLI (for non-Expo setups)
 Android Studio (for Android) or Xcode (for iOS) for running the application on a simulator or device.
 
 Clone the repository 
-git clone https://github.com/your-username/react-native-navigation-app.git
+git clone https://github.com/hitesh-y/native-tab-.git
 cd react-native-navigation-app
 
 Install dependencies 
